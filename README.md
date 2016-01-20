@@ -26,9 +26,9 @@ One way to visualize all this could be to group the video into X portions and sh
 There are many other ways to do it and I'm not suggesting that the above suggestion is the best, and I'm also not suggesting that it's not. It's up to you.
 
 ## Let's go!
-1. Get the application with `$ git clone git@github.com:nuntio/vivie.git FOLDER_NAME` (FOLDER_NAME is optional).
-2. Get the dependencies with `npm install`
-3. Build the stuff and the things.
-4. Don't feel bad about asking questions.
+1. Connect to WiFi `WeWork` with password `P@assw0rd`
+2. Get the application with `$ git clone git@github.com:nuntio/vivie.git FOLDER_NAME` (FOLDER_NAME is optional).
+3. Get the dependencies with `npm install`
+4. Build the stuff and the things.
 5. Commit your changes to the git repository.
 6. Explain your application and choices.

@@ -1,7 +1,7 @@
 #  HTML5 video application
 Today we're going to build a mini (ExpressJS/AngularJS (v1)) application that is supposed to show HTML5 video playback statistics. I've made a basic ExpressJS application with the `express` command, and added a basic Angular setup with Yeoman via `yo` command. I haven't added any database yet. You're going to expand it. You are allowed to use Google and online sources, previous projects, etc. You're allowed to use any type of tools or technology. You may also ask for help or ask questions, like in a real world project. The main goal is not to test your knowledge, it is see how you work. We want to get an understanding of your problem solving skills, creativity and ability to gather information.
 
-You're going to get 1 hour to work on this. I will check in the meantime how you're doing and will be around for questions. Afer that, we're going to discuss what you've built and the choices that you've made. 
+When you're done, we'll discuss the application and the choices that you made.
 
 ## Requirements
 We want to be able to know how users generally interact with a video. This way we would be able to see how our video is performing and which part of our video is most popular.
@@ -28,7 +28,8 @@ There are many other ways to do it and I'm not suggesting that the above suggest
 ## Let's go!
 1. Connect to WiFi `WeWork` with password `P@assw0rd`
 2. Get the application with `git clone git@github.com:nuntio/vivie.git FOLDER_NAME` (`FOLDER_NAME` is optional).
-3. Get the dependencies with `npm install`
-4. Build the stuff and the things.
-5. Commit your changes to the git repository.
-6. Explain your application and choices.
+3. Get the dependencies with `npm install` and `bower install`
+4. Run with `npm start` and go to http://localhost:3000 to see it.
+5. Build the things.
+6. Commit your changes to the git repository.
+7. Explain your application and choices.

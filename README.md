@@ -27,7 +27,7 @@ There are many other ways to do it and I'm not suggesting that the above suggest
 
 ## Let's go!
 1. Connect to WiFi `WeWork` with password `P@assw0rd`
-2. Get the application with `$ git clone git@github.com:nuntio/vivie.git FOLDER_NAME` (FOLDER_NAME is optional).
+2. Get the application with `git clone git@github.com:nuntio/vivie.git FOLDER_NAME` (`FOLDER_NAME` is optional).
 3. Get the dependencies with `npm install`
 4. Build the stuff and the things.
 5. Commit your changes to the git repository.

@@ -27,7 +27,8 @@ There are many other ways to do it and I'm not suggesting that the above suggest
 
 ## Let's go!
 1. Get the application with `$ git clone git@github.com:nuntio/vivie.git FOLDER_NAME` (FOLDER_NAME is optional).
-2. Build the stuff and the things.
-3. Don't feel bad about asking questions.
-4. Commit your changes to the git repository.
-5. Explain your application and choices.
+2. Get the dependencies with `npm install`
+3. Build the stuff and the things.
+4. Don't feel bad about asking questions.
+5. Commit your changes to the git repository.
+6. Explain your application and choices.

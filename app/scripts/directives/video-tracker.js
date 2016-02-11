@@ -2,12 +2,12 @@
 
 /**
  * @ngdoc function
- * @name vivieApp.controller:MainCtrl
+ * @name testApp.controller:MainCtrl
  * @description
  * # MainCtrl
- * Controller of the vivieApp
+ * Controller of the testApp
  */
-angular.module('vivieApp')
+angular.module('testApp')
     .directive('videoTracker', function () {
         return {
             link: function($scope, $element) {

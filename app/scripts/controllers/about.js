@@ -2,12 +2,12 @@
 
 /**
  * @ngdoc function
- * @name vivieApp.controller:AboutCtrl
+ * @name testApp.controller:AboutCtrl
  * @description
  * # AboutCtrl
- * Controller of the vivieApp
+ * Controller of the testApp
  */
-angular.module('vivieApp')
+angular.module('testApp')
   .controller('AboutCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',

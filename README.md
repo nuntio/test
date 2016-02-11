@@ -27,7 +27,7 @@ There are many other ways to do it and I'm not suggesting that the above suggest
 
 ## Let's go!
 1. Connect to WiFi `WeWork` with password `P@ssw0rd`
-2. Get the application with `git clone git@github.com:nuntio/vivie.git FOLDER_NAME` (`FOLDER_NAME` is optional).
+2. Get the application with `git clone git@github.com:nuntio/test.git FOLDER_NAME` (`FOLDER_NAME` is optional).
 3. Get the dependencies with `npm install` and `bower install`
 4. Run with `npm start` and go to http://localhost:3000 to see it.
 5. Build the things.

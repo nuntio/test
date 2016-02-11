@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name vivieApp
+ * @name testApp
  * @description
- * # vivieApp
+ * # testApp
  *
  * Main module of the application.
  */
 angular
-  .module('vivieApp', [
+  .module('testApp', [
     'ngAnimate',
     'ngAria',
     'ngCookies',

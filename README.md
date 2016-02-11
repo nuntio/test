@@ -6,7 +6,7 @@ When you're done, we'll discuss the application and the choices that you made.
 ## Requirements
 We want to be able to know how users generally interact with a video. This way we would be able to see how our video is performing and which part of our video is most popular.
 
-In the current application, we already have a page that contains one HTML5 video. This page needs to star tracking playback behavior. When a user plays the video (1), pauses the video (2), seeks inside the video (3) or stops the video (4), we want to track this. We want to track which event happened and at what time in the video. For example:
+In this current repository, we already have a page that contains one HTML5 video. This page needs to start tracking playback behavior. When a user plays the video (1), pauses the video (2), seeks inside the video (3) or stops the video (4), we want to track this. We want to track which event happened and at what time in the video. For example:
 
 event | time(ms) 
 -------|----------
